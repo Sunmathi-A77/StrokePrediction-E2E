@@ -37,31 +37,24 @@ Number of records: 5110
 
 ### Preprocessing Steps
 
-#### Missing Value Handling
+**Missing Value Handling**  
+- Filled missing `bmi` values with median.
 
-Filled missing bmi values with median
+**Encoding Categorical Variables**  
+- `gender`, `ever_married`, `Residence_type` → Label Encoding  
+- `work_type` and `smoking_status` → One-Hot Encoding  
 
-#### Encoding Categorical Variables
+**Feature Scaling**  
+- `StandardScaler` applied **after SMOTE**.
 
-gender, ever_married, Residence_type → Label Encoding
+**Skew Correction**  
+- Log-transform applied to `avg_glucose_level` and `bmi`.
 
-work_type and smoking_status → One-Hot Encoding
+**Outlier Handling**  
+- Clipped extreme values for `avg_glucose_level` and `bmi`.
 
-#### Feature Scaling
-
-StandardScaler applied after SMOTE
-
-#### Skew Correction
-
-Log-transform applied to avg_glucose_level and bmi
-
-#### Outlier Handling
-
-Clipped extreme values for avg_glucose_level and bmi
-
-#### Balancing the Dataset
-
-SMOTE used to handle class imbalance for stroke
+**Balancing the Dataset**  
+- SMOTE used to handle class imbalance for `stroke`.
 
 ### Modeling
 
