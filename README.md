@@ -10,7 +10,7 @@ The app is designed to be user-friendly, with interactive input fields, a colorf
 
 🩺 Stroke Prediction App - https://strokeprediction-e2e.streamlit.app/
 
-<img width="300" height="300" alt="Screenshot 2025-10-26 230434" src="https://github.com/user-attachments/assets/8accb1a1-45b4-451d-8c9f-eb347421440a" />
+<img width="500" height="500" alt="Screenshot 2025-10-26 230434" src="https://github.com/user-attachments/assets/8accb1a1-45b4-451d-8c9f-eb347421440a" />
 
 ### Dataset
 
@@ -20,29 +20,20 @@ Number of records: 5110
 
 #### Features include:
 
-id – Patient ID (removed in preprocessing)
-
-gender – Male, Female, Other
-
-age – Age in years
-
-hypertension – 0/1
-
-heart_disease – 0/1
-
-ever_married – Yes/No
-
-work_type – Private, Self-employed, Govt_job, children
-
-Residence_type – Urban/Rural
-
-avg_glucose_level – Average glucose level
-
-bmi – Body Mass Index
-
-smoking_status – formerly smoked, never smoked, smokes
-
-stroke – Target variable (0 = No, 1 = Yes)
+| Column Name       | Description                           | Values / Type                              |
+| ----------------- | ------------------------------------- | ------------------------------------------ |
+| id                | Patient ID (removed in preprocessing) | Integer                                    |
+| gender            | Patient gender                        | Male, Female, Other                        |
+| age               | Age in years                          | Numeric                                    |
+| hypertension      | Hypertension status                   | 0 = No, 1 = Yes                            |
+| heart_disease     | Heart disease status                  | 0 = No, 1 = Yes                            |
+| ever_married      | Marriage status                       | Yes, No                                    |
+| work_type         | Type of work                          | Private, Self-employed, Govt_job, children |
+| Residence_type    | Type of residence                     | Urban, Rural                               |
+| avg_glucose_level | Average glucose level                 | Numeric                                    |
+| bmi               | Body Mass Index                       | Numeric                                    |
+| smoking_status    | Smoking habit                         | formerly smoked, never smoked, smokes      |
+| stroke            | Target variable                       | 0 = No, 1 = Yes                            |
 
 ### Preprocessing Steps
 
