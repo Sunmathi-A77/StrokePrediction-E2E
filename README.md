@@ -10,7 +10,7 @@ The app is designed to be user-friendly, with interactive input fields, a colorf
 
 🩺 Stroke Prediction App - https://strokeprediction-e2e.streamlit.app/
 
-<img width="500" height="500" alt="Screenshot 2025-10-26 230434" src="https://github.com/user-attachments/assets/8accb1a1-45b4-451d-8c9f-eb347421440a" />
+<img width="700" height="700" alt="Screenshot 2025-10-26 230434" src="https://github.com/user-attachments/assets/8accb1a1-45b4-451d-8c9f-eb347421440a" />
 
 ### Dataset
 
