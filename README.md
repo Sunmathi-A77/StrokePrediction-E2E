@@ -123,6 +123,15 @@ matplotlib
 seaborn
 ```
 
+### Technologies & Libraries
+
+- **Python 3.x**
+- **Streamlit** – Web app framework
+- **Pandas & NumPy** – Data handling
+- **Scikit-learn** – Modeling & preprocessing
+- **Imbalanced-learn** – SMOTE for handling class imbalance
+- **Matplotlib & Seaborn** – Exploratory Data Analysis & visualization
+
 ### Usage
 
 1. Run the Streamlit app:
@@ -133,13 +142,3 @@ streamlit run app.py
 2. Input patient details in the sidebar.
 
 3. Click Predict Stroke Risk to view the prediction and risk probability.
-
-### Technologies & Libraries
-
-- **Python 3.x**
-- **Streamlit** – Web app framework
-- **Pandas & NumPy** – Data handling
-- **Scikit-learn** – Modeling & preprocessing
-- **Imbalanced-learn** – SMOTE for handling class imbalance
-- **Matplotlib & Seaborn** – Exploratory Data Analysis & visualization
-
