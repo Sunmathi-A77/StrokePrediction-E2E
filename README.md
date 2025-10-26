@@ -58,51 +58,36 @@ Number of records: 5110
 
 ### Modeling
 
-#### Models Tested:
+**Models Tested:**  
+- Logistic Regression  
+- Random Forest Classifier ✅ **(Final Model)**  
+- Gradient Boosting  
+- k-Nearest Neighbors  
+- Support Vector Machine  
+- Naive Bayes  
 
-Logistic Regression
+**Performance:**  
+- Random Forest achieved the best accuracy and stability.  
+- Feature importance was calculated and visualized.  
 
-Random Forest Classifier ✅ (Final)
+**Saved Files:**  
+- `random_forest_stroke_model.pkl` – Trained Random Forest model  
+- `scaler.pkl` – StandardScaler used for input features  
+- `feature_columns.pkl` – Column names used as model input
 
-Gradient Boosting
-
-k-Nearest Neighbors
-
-Support Vector Machine
-
-Naive Bayes
-
-#### Performance:
-
-Random Forest achieved the best accuracy and stability.
-
-Features Importance calculated and visualized.
-
-#### Saved Files:
-
-random_forest_stroke_model.pkl – Trained model
-
-scaler.pkl – StandardScaler
-
-feature_columns.pkl – Columns used for model input
 
 ### App Features
 
-Interactive sidebar for patient data input
-
-Log-transform and feature scaling handled automatically
-
-One-hot encoding applied internally
-
-Predicts stroke risk with probability
-
-Visually appealing interface:
-
-Background color
-
-Prediction box with color
-
-Footer credit
+- **Interactive Sidebar** for patient data input  
+- **Automatic Data Handling**:  
+  - Log-transform applied to skewed features  
+  - Feature scaling using StandardScaler  
+  - One-hot encoding applied internally  
+- **Stroke Prediction** with risk probability  
+- **Visually Appealing Interface**:  
+  - Custom background color  
+  - Prediction box with styled colors  
+  - Footer credit: "Created by Sunmathi Arunachalam"
 
 ### Installation
 
@@ -140,24 +125,21 @@ seaborn
 
 ### Usage
 
-Run the Streamlit app:
+1. Run the Streamlit app:
 
-```streamlit run app.py```
+```bash
+streamlit run app.py
 
-Input patient details in the sidebar.
+2. Input patient details in the sidebar.
 
-Click Predict Stroke Risk to view prediction and probability.
+3. Click Predict Stroke Risk to view the prediction and risk probability.
 
 ### Technologies & Libraries
 
-Python 3.x
+- **Python 3.x**
+- **Streamlit** – Web app framework
+- **Pandas & NumPy** – Data handling
+- **Scikit-learn** – Modeling & preprocessing
+- **Imbalanced-learn** – SMOTE for handling class imbalance
+- **Matplotlib & Seaborn** – Exploratory Data Analysis & visualization
 
-Streamlit – Web app framework
-
-Pandas & NumPy – Data handling
-
-Scikit-learn – Modeling & preprocessing
-
-Imbalanced-learn – SMOTE
-
-Matplotlib & Seaborn – EDA & visualization
