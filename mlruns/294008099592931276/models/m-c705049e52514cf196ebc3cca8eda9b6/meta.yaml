@@ -1,0 +1,10 @@
+artifact_location: file:///c:/StrokePrediction-E2E/mlruns/294008099592931276/models/m-c705049e52514cf196ebc3cca8eda9b6/artifacts
+creation_timestamp: 1761560776241
+experiment_id: '294008099592931276'
+last_updated_timestamp: 1761560787227
+model_id: m-c705049e52514cf196ebc3cca8eda9b6
+model_type: null
+name: stroke_model
+source_run_id: f05b357d4eb143f1a29da04debfe8389
+status: 2
+status_message: null

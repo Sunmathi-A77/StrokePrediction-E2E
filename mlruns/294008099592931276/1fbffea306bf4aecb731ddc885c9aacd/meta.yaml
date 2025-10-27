@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/StrokePrediction-E2E/mlruns/294008099592931276/1fbffea306bf4aecb731ddc885c9aacd/artifacts
+deleted_time: 1761561241340
+end_time: 1761560361884
+entry_point_name: ''
+experiment_id: '294008099592931276'
+lifecycle_stage: deleted
+run_id: 1fbffea306bf4aecb731ddc885c9aacd
+run_name: RandomForest_Stroke
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761560361806
+status: 4
+tags: []
+user_id: Sunmathi A
