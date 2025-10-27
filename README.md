@@ -87,7 +87,7 @@ Number of records: 5110
 - **Visually Appealing Interface**:  
   - Custom background color  
   - Prediction box with styled colors  
-  - Footer credit: "Created by Sunmathi Arunachalam"
+  - Footer credit: "Created by Sunmathi"
 
 ### Installation
 
@@ -138,7 +138,7 @@ seaborn
 
 ```bash
 streamlit run app.py
-
+```
 2. Input patient details in the sidebar.
 
 3. Click Predict Stroke Risk to view the prediction and risk probability.
