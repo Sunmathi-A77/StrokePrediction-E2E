@@ -1,0 +1,10 @@
+artifact_location: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/models/m-55c44c6f58714147b1b6a6525064fb66/artifacts
+creation_timestamp: 1761622752992
+experiment_id: '968295627783230262'
+last_updated_timestamp: 1761622757758
+model_id: m-55c44c6f58714147b1b6a6525064fb66
+model_type: null
+name: Gradient Boosting
+source_run_id: d9031f270e48483487a7f4048f560d71
+status: 2
+status_message: null

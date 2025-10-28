@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/b732cda8f39f4cd482c40ae55ab2ac11/artifacts
+end_time: 1761622781361
+entry_point_name: ''
+experiment_id: '968295627783230262'
+lifecycle_stage: active
+run_id: b732cda8f39f4cd482c40ae55ab2ac11
+run_name: Naive Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761622775528
+status: 3
+tags: []
+user_id: Sunmathi A

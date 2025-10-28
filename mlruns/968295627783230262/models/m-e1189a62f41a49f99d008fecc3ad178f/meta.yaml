@@ -1,0 +1,10 @@
+artifact_location: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/models/m-e1189a62f41a49f99d008fecc3ad178f/artifacts
+creation_timestamp: 1761622746417
+experiment_id: '968295627783230262'
+last_updated_timestamp: 1761622751433
+model_id: m-e1189a62f41a49f99d008fecc3ad178f
+model_type: null
+name: Random Forest
+source_run_id: 54f0d7c3e10b43719f89580d4e30285d
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/models/m-fc7a58c3543b49a5bde6723e26905b99/artifacts
+creation_timestamp: 1761622775768
+experiment_id: '968295627783230262'
+last_updated_timestamp: 1761622781333
+model_id: m-fc7a58c3543b49a5bde6723e26905b99
+model_type: null
+name: Naive Bayes
+source_run_id: b732cda8f39f4cd482c40ae55ab2ac11
+status: 2
+status_message: null

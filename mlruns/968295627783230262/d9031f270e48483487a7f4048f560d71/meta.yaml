@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/d9031f270e48483487a7f4048f560d71/artifacts
+end_time: 1761622757786
+entry_point_name: ''
+experiment_id: '968295627783230262'
+lifecycle_stage: active
+run_id: d9031f270e48483487a7f4048f560d71
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761622751482
+status: 3
+tags: []
+user_id: Sunmathi A

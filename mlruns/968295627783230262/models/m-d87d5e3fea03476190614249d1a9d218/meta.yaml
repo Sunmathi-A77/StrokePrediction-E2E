@@ -1,0 +1,10 @@
+artifact_location: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/models/m-d87d5e3fea03476190614249d1a9d218/artifacts
+creation_timestamp: 1761622758539
+experiment_id: '968295627783230262'
+last_updated_timestamp: 1761622763397
+model_id: m-d87d5e3fea03476190614249d1a9d218
+model_type: null
+name: k-NN
+source_run_id: c6d79aa2e83745f8a62f4efd7bd1d961
+status: 2
+status_message: null

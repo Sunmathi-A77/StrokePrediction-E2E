@@ -1,0 +1,40 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "gender",
+      "age",
+      "hypertension",
+      "heart_disease",
+      "ever_married",
+      "Residence_type",
+      "avg_glucose_level",
+      "bmi",
+      "smoking_status_formerly smoked",
+      "smoking_status_never smoked",
+      "smoking_status_smokes",
+      "work_type_Never_worked",
+      "work_type_Private",
+      "work_type_Self-employed",
+      "work_type_children"
+    ],
+    "data": [
+      [
+        1.3562334455684628,
+        1.1035846061180534,
+        -0.3387925841721046,
+        3.9921525809975194,
+        0.581388563451401,
+        -0.8848004372063472,
+        0.9969386337864256,
+        -0.272382099954483,
+        1.6097917961317978,
+        -0.8546982379551792,
+        -0.47081178256994066,
+        -0.047623956546190095,
+        0.7297065346657666,
+        -0.5655510145342573,
+        -0.28153663605696777
+      ]
+    ]
+  }
+}

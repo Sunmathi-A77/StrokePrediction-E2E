@@ -1,0 +1,10 @@
+artifact_location: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/models/m-1d5b930c9c9b448fbd13fc17fd53e0be/artifacts
+creation_timestamp: 1761622770566
+experiment_id: '968295627783230262'
+last_updated_timestamp: 1761622775483
+model_id: m-1d5b930c9c9b448fbd13fc17fd53e0be
+model_type: null
+name: SVM
+source_run_id: a61d597109b04460a7c74dee2c426da7
+status: 2
+status_message: null

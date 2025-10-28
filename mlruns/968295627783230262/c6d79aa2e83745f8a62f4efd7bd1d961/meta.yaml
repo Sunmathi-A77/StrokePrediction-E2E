@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/c6d79aa2e83745f8a62f4efd7bd1d961/artifacts
+end_time: 1761622763423
+entry_point_name: ''
+experiment_id: '968295627783230262'
+lifecycle_stage: active
+run_id: c6d79aa2e83745f8a62f4efd7bd1d961
+run_name: k-NN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761622757802
+status: 3
+tags: []
+user_id: Sunmathi A

@@ -1,0 +1,15 @@
+creation_timestamp: 1761622781534
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1761622781534
+model_id: m-e1189a62f41a49f99d008fecc3ad178f
+name: Stroke_Prediction_Best_Model
+run_id: 54f0d7c3e10b43719f89580d4e30285d
+run_link: null
+source: models:/m-e1189a62f41a49f99d008fecc3ad178f
+status: READY
+status_message: null
+storage_location: file:///C:/StrokePrediction-E2E/mlruns/968295627783230262/models/m-e1189a62f41a49f99d008fecc3ad178f/artifacts
+user_id: null
+version: 1
