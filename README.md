@@ -6,11 +6,15 @@ The Stroke Prediction App is a web-based tool built with Python and Streamlit to
 
 The app is designed to be user-friendly, with interactive input fields, a colorful and modern interface, and a clear prediction result including risk probability.
 
+---
+
 ### Live App Link: 
 
 🩺 Stroke Prediction App - https://strokeprediction-e2e.streamlit.app/
 
 <img width="700" height="700" alt="Screenshot 2025-10-26 230434" src="https://github.com/user-attachments/assets/8accb1a1-45b4-451d-8c9f-eb347421440a" />
+
+---
 
 ### Dataset
 
@@ -35,6 +39,8 @@ Number of records: 5110
 | smoking_status    | Smoking habit                         | formerly smoked, never smoked, smokes      |
 | stroke            | Target variable                       | 0 = No, 1 = Yes                            |
 
+---
+
 ### Preprocessing Steps
 
 **Missing Value Handling**  
@@ -56,6 +62,8 @@ Number of records: 5110
 **Balancing the Dataset**  
 - SMOTE used to handle class imbalance for `stroke`.
 
+---
+
 ### Modeling
 
 **Models Tested:**  
@@ -75,6 +83,7 @@ Number of records: 5110
 - `scaler.pkl` – StandardScaler used for input features  
 - `feature_columns.pkl` – Column names used as model input
 
+---
 
 ### App Features
 
@@ -88,6 +97,8 @@ Number of records: 5110
   - Custom background color  
   - Prediction box with styled colors  
   - Footer credit: "Created by Sunmathi"
+
+---
 
 ### Installation
 
@@ -123,6 +134,8 @@ matplotlib
 seaborn
 ```
 
+---
+
 ### Technologies & Libraries
 
 - **Python 3.x**
@@ -131,6 +144,8 @@ seaborn
 - **Scikit-learn** – Modeling & preprocessing
 - **Imbalanced-learn** – SMOTE for handling class imbalance
 - **Matplotlib & Seaborn** – Exploratory Data Analysis & visualization
+
+---
 
 ### Usage
 
